@@ -1,0 +1,38 @@
+[{
+    "title":"Active-SisHER",
+    "description":"COVID-19 has impacted our day-to-day life and mental well-being. We created an app that creates an empowering and mindful space where women can create activity groups such as; rollerblading, running, biking ect. and meet up at local parks.",
+    "github":"https://github.com/Lismey23/Active-SisHER",
+    "deployed":"https://safe-cliffs-73161.herokuapp.com/"
+},
+{
+    "title":"Covid-Clean",
+    "description":"This App will allow you to rate, leave comments and browse previous comments and ratings, for local restaurants in your area. Simply click on one of the restaurants and the user will be directed to a map view, with a marker for said resturant in the area with it's pinned location. This view will give the user acces to the covid cases count and recoverd cases to date in the states, as wel as a chart of the vaccine rates since april till current date. ",
+    "github":"https://github.com/SANELulu/Covid-Clean",
+    "deployed":"https://boiling-dusk-14888.herokuapp.com"
+},
+{
+    "title":"Class Roster Generator",
+    "description":"This program allows a user to answer a list of questions and when submitted, complete a google form. That form data is then populated into a Google Spreadsheet and then displayed to the end-user as a Bootstrap card element. ",
+    "deployed":"https://lismey23.github.io/Project_1/",
+    "github":"https://github.com/Lismey23/Project_1"
+},
+{
+    "title":"Weather Dashboard",
+    "description":"A web-based dashboard built to display the current weather, temperature, humidity, wind speed and UV index in a city of choice and the upcoming five (5) day forecast. The UV Index will be accompanied by a color indicating the severity of the index.",
+    "github":"https://github.com/Lismey23/weather-dashboard",
+    "deployed":"https://lismey23.github.io/weather-dashboard/"
+},
+{
+    "title":"Employee Directory",
+    "description":"This app offers a detailed view of the entire employee directory of a company at once and easily access their information",
+    "github":"https://github.com/Lismey23/employee-directory",
+    "deployed":"https://lismey23.github.io/employee-directory/"
+},
+{
+    "title":"Daily Schedule",
+    "description":"A simple daily planner was created to allow an user to save events for each standard business hours and each time block will be color coded to indicate if is in the past, present or future.",
+    "github":"https://github.com/Lismey23/daily-schedule",
+    "deployed":"https://lismey23.github.io/daily-schedule/"
+}
+
+]

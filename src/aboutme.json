@@ -1,0 +1,59 @@
+[{
+    "id":1,
+    "summary": "Motivated, energetic and reliable Industrial Engineer with a hard-working mentality. Persuasive communicator, a team worker and multitask-er with a positive attitude with more than 3 years of experience planning, developing and providing solutions as an Industrial Engineer and result- oriented Associate Business Development Manager with 3 years of experience with focus on exceeding revenue objectives and driving business growth. Recently graduated from UM Coding BootCamp, offering a strong foundation in software engineering and experienced in object- oriented programming, developing, testing and debugging code and ready to find a company to grow as a Software Developer and keep improving."
+    
+},
+{
+    "id":2,
+    "position":"  Associate Business Development Manager",
+    "company":"Tech Data - From 08/2019 to Present",
+    "location":"Miami, Florida",
+    "description":"Designed projects to resellers using networking, cybersecurity and power solutions. Offered pre-sale support and BOM configurations. Created and executed business strategies for market development within specific Latam regions. Identified and pursued valuable business opportunities to generate new company revenue and improve bottom line profit. Created sales incentives focused on increasing revenue and customer breadth for sales representatives and achieve an increase of 20% revenue QoQ. Worked directly with vendors to close business opportunities, offer the best support to resellers and have an align business strategy."
+
+},
+{
+    "id":3,
+    "position":"Production Manager",
+    "company":"Solution Box LLC - From 01/2019 to 08/2019",
+    "location":"Miami, Florida",
+    "description": "Determine product pricing by utilizing market research data; reviewing production and sales costs; anticipating volume; costing special and customized orders. Determined customers need and desires by specifying the research needed to obtain market information. Obtain product market share by calling on customers with field salespeople and evaluating sales call results. Facilitates inventory turnover and product availability by reviewing and adjusting inventory levels. Worked very close to the accounting department in invoice processing. Maintains professional and technical knowledge by attending educational workshops, reviewing professional publications and establishing personal networks."
+
+},
+{
+    "id":4,
+    "position":"Industrial Engineer",
+    "company":"MedSol Laboratories - From 09/2016 to 09/2017",
+    "location":"La Habana,Cuba",
+    "description":"Accurate measurement standards and operations were developed to increase production, minimize time without added value and reduce the cost of producing medicines. Monitored and analyzed workflow, processes, procedures, and line activities, identifying and resolving bottlenecks to maximize efficiency."
+
+},
+
+{
+    "id":5,
+    "position":"Industrial Engineer Internship",
+    "company":"MedSol Laboratories - From 09/2014 to 09/2016",
+    "location":"La Habana,Cuba",
+    "description":"Integrated quickly into the team tasked with investigating, planning and implementing optimization processes in the manufacture of medicines, specifically Enalapril. Provided steady flow of information to management, customers, internal personnel and direct reports as commited. Perform operational observation and process documentation. Worked with data to understand process gaps and improvement opportunities."
+
+},
+{
+    "id":6,
+    "certification":"Certificate in Full Stack Web Development:",
+    "university":"University of Miami - June 2021",
+    "location":"Miami, FL",
+    "description":"A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS. "
+
+},
+{
+    "id":7,
+    "certification":"Bachelor of Science: Industrial Engineering",
+    "university":"The Technological University of Havana, CUJAE - June 2017",
+    "location":"La Havana,Cuba",
+    "description":"A 5 year career focused on learning production systems planning, process optimization and documentation, statistics and manufacturing systems design."
+}
+
+
+
+
+
+]
