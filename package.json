@@ -2,7 +2,7 @@
   "name": "resume_react",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Lismey23.github.io/resume_react/",
+  "homepage": "https://Lismey23.github.io/resume_react/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@material-ui/core": "^4.11.4",
